@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Litunao
 - 👀 I’m interested in Embeded systems development
-- 🌱 I’m currently learning coding and electronics design
-- 💞️ I’m looking to collaborate on small project using MCU's based on RISC-V architecture
+- 🌱 I’m currently learning coding (Web Development)
 - 📫 How to reach me: zizys.ignas@gmail.com
 
 <!---
